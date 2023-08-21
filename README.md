@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abdulrahman</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Web & Mobile Developer</h3>
 
-I'm Front-End Developer with hands-on experience designing, developing, and implementing websites and solutions using various technologies and programming languages, I seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Front-End Developer for the web.
+I'm Web & Mobile Developer with hands-on experience designing, developing, and implementing websites, and mobile apps, and I have problem solutions using various technologies and programming languages, I seek to leverage broad development experience and hands-on technical expertise in a challenging role as a Programming Developer.
 
 - 📫 How to reach me: 
   
